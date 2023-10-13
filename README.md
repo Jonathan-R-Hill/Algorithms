@@ -6,5 +6,6 @@
 
 ## Search Algs
 - Binary Search
+- Linear Search
 
 
